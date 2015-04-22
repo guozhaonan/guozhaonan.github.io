@@ -20,15 +20,6 @@
   margin-bottom: 75px;
 }
 
-.header-image {
-     background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)),url(https://unsplash.imgix.net/photo-1418065460487-3e41a6c84dc5?dpr=2&fit=crop&fm=jpg&h=700&q=75&w=1050) no-repeat center center fixed;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     background-size: cover;
-     padding:100px;
-     color:white;
- }
  .icons {
-   
+
  }

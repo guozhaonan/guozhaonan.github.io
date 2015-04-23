@@ -21,5 +21,9 @@
 }
 
  .icons {
-
+   margin: 0 auto;
  }
+.space {
+  margin-left: 45px;
+  margin right: 45px;
+}

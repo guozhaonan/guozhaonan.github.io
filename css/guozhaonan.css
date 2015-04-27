@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+body {
+  background-image: url("../images/trees.jpeg");
+  -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
 .first{
 
 }
@@ -12,6 +19,12 @@
 
 }
 
+.middleLine {
+  color: white;
+}
+.lastLine {
+  color: white;
+}
 .intro {
   font-family: 'Lato', sans-serif;
   font-weight: 100;
@@ -27,7 +40,7 @@
   margin-left: 45px;
   margin right: 45px;
 }
-
+/*
 a:link {
   color: black;
 }
@@ -40,4 +53,4 @@ a:hover {
 }
 a:active {
     color: black;
-}
+}*/

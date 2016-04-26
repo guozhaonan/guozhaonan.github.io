@@ -4,6 +4,7 @@
   font-size: 56px;
   text-align: center;
   color: white;
+
 }
 
 body {
@@ -12,12 +13,6 @@ body {
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-}
-.first{
-
-}
-.last {
-
 }
 
 .intro {
